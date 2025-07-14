@@ -5,7 +5,7 @@ The primary aim of this project is to facilitate financial reports analyses, wit
 ### Dependencies
 Install the required Python packages:
 ```python
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Database
